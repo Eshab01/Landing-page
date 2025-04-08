@@ -38,7 +38,3 @@ This landing page presents the mission, features, business model, and impact of 
 - Icons: [Font Awesome](https://fontawesome.com/)  
 - Fonts: Google Fonts (`Poppins`, `Lato`)
 
----
-
-## 📁 Folder Structure
-
