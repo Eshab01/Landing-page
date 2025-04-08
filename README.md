@@ -4,9 +4,15 @@ Welcome to the official landing page repository for **Kudewala Uncle**, a smart 
 
 ---
 
+## 🌍 Live Preview
+
+🚀 [View Live Page](#) *(Add your deployment link here)*
+
+---
+
 ## 📌 About the Project
 
-**Kudewala Uncle** is an eco-tech initiative designed to tackle the growing waste crisis in India through:
+**Kudewala Uncle** is an eco-tech initiative designed to tackle India’s waste management issues through:
 - Smart waste pickups
 - Pollution tracking
 - Recyclable resale
@@ -17,24 +23,48 @@ This landing page presents the mission, features, business model, and impact of 
 
 ---
 
-## ✨ Features
+## 📸 Screenshots
 
-- 💚 Responsive, eco-themed design
-- 📱 App features and dashboard preview
-- 🧩 Smart waste-to-wealth flow diagram
-- 🌿 Eco marketplace product showcase
-- 📊 Pollution data visualizer
-- 🧠 IoT smart bin highlights
-- 👨‍💼 Meet the Team section
-- 🎯 Clear CTAs for app downloads and scheduling pickups
+*(Add your screenshots in the `/screenshots` folder and link them here)*
 
 ---
 
-## 🛠️ Built With
+## ✨ Features
 
-- `HTML5`  
-- `CSS3` (Flexbox + Grid + Custom animations)  
-- `JavaScript` (DOM manipulation, interactivity)  
-- Icons: [Font Awesome](https://fontawesome.com/)  
-- Fonts: Google Fonts (`Poppins`, `Lato`)
+- 💚 Eco-friendly, responsive design
+- 📱 App features + dashboard preview
+- ♻️ Waste-to-Wealth flow explanation
+- 🛒 Eco marketplace product slider
+- 📊 Pollution tracking dashboard
+- 🧠 Smart bin technology section
+- 🧍 Target audience and team details
+- 🎯 Strong CTA for app download/scheduling pickups
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5  
+- CSS3 (Flexbox, Grid, Keyframes)  
+- JavaScript (DOM, animations, interactivity)  
+- Icons: Font Awesome  
+- Fonts: Google Fonts – `Poppins`, `Lato`
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/Eshab01/Landing-page.git
+```
+2. **Open index.html in your browser**
+
+That’s it — no frameworks, no dependencies. Just clean front-end code.
+
+## 👨‍💻 Author
+Designed & Developed by **Eshab Sachan**
+🎓 BCA Student @ Chandigarh University
+📬 Contact: eshabsa@email.com
 
