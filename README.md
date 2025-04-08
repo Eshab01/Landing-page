@@ -4,12 +4,6 @@ Welcome to the official landing page repository for **Kudewala Uncle**, a smart 
 
 ---
 
-## 🌍 Live Preview
-
-🚀 [View Live Page](#) *(Add your deployment link here)*
-
----
-
 ## 📌 About the Project
 
 **Kudewala Uncle** is an eco-tech initiative designed to tackle India’s waste management issues through:
@@ -20,12 +14,6 @@ Welcome to the official landing page repository for **Kudewala Uncle**, a smart 
 - IoT-enabled smart bins
 
 This landing page presents the mission, features, business model, and impact of Kudewala Uncle using a clean and modern UI — built with **only HTML, CSS, and JavaScript**.
-
----
-
-## 📸 Screenshots
-
-*(Add your screenshots in the `/screenshots` folder and link them here)*
 
 ---
 
